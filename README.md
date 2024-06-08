@@ -16,7 +16,7 @@ This web application allows users to check the weather forecast for their locati
 ## How to Use
 
 1. **Accessing the App:**
-   - Visit the live site [here]((https://quicksilver-lab.github.io/Weather-Forcast/)).
+   - Visit the live site [here](https://quicksilver-lab.github.io/Weather-Forcast/).
    - Alternatively, clone this repository to your local machine and open `index.html` in your preferred web browser.
 
 2. **Getting Weather Forecast:**
