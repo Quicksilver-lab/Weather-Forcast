@@ -53,3 +53,5 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 <img src="/assets/line.gif">             
 </p>
 This project is licensed under the [MIT License](LICENSE).
+
+![QuickSilver](/assets/footer.svg)
