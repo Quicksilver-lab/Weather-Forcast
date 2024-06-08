@@ -1,4 +1,7 @@
 # Weather Forecast App
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 
 Welcome to the Weather Forecast App! ☀️🌧️⛈️
 
@@ -7,14 +10,18 @@ This web application allows users to check the weather forecast for their locati
 ![Weather Forecast App](weather.png)
 
 ## Features
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 - Get the current weather conditions for your location.
 - View detailed forecasts including temperature, humidity, wind speed, etc.
 - Search for weather forecasts for specific locations.
 - Responsive design for desktop and mobile devices.
 
 ## How to Use
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 1. **Accessing the App:**
    - Visit the live site [here](https://quicksilver-lab.github.io/Weather-Forcast/).
    - Alternatively, clone this repository to your local machine and open `index.html` in your preferred web browser.
@@ -28,19 +35,21 @@ This web application allows users to check the weather forecast for their locati
    - Navigate between different views using intuitive buttons or gestures.
 
 ## Technologies Used
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 - HTML/CSS/JavaScript
 - [Insert any libraries/frameworks used, e.g., Bootstrap, jQuery, etc.]
 - [Insert any APIs used, e.g., OpenWeatherMap API]
 
-## Demo
-
-![Weather Forecast App Demo](weather_forecast_demo.gif)
-
 ## Contributing
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 ## License
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 This project is licensed under the [MIT License](LICENSE).
